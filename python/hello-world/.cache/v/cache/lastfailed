@@ -1,1 +1,4 @@
-{}
+{
+  "hello_world_test.py::HelloWorldTests": true,
+  "hello_world_test.py::HelloWorldTests::test_hello": true
+}
